@@ -1,5 +1,4 @@
 word=input()
-a=""
 comp = ""
 i = 0
 n = len(word)
@@ -15,6 +14,3 @@ while i < n:
     comp += str(count) + c
     
 print(comp)
-
-
-
