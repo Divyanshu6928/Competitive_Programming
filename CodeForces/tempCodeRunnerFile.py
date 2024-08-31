@@ -1,2 +1,2 @@
-    s=input()
-    print(rearrange_string(s))
+    # if found_gap:
+    #     continue
